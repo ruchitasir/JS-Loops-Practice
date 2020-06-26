@@ -11,3 +11,6 @@ var books = [
 ]
 
 // Your code here
+books.forEach(function(tl) {
+    console.log(tl.title)
+})
